@@ -3,6 +3,7 @@
 - 👨‍💻 Currently working with: React, Node.js,css_FrameWorks
 - 🌱 Learning: TypeScript, Docker,AI Developing
 - 🔗 My Projects below 👇
--NetFlix Clone(Template)
--CustomVideoPlayer(Template)
--shoppingTemplates
+
+- NetFlix Clone(Template)
+- CustomVideoPlayer(Template)
+- shoppingTemplates
